@@ -1,4 +1,4 @@
-# ESP32 Seed Sowing Robot
+# 🌱 ESP32 Seed Sowing Robot 🌱
 
 A WiFi-controlled agricultural robot built using ESP32 that allows users to remotely control movement and toggle seed sowing through a built-in browser portal.
 
